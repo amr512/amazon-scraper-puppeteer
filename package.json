@@ -1,0 +1,17 @@
+{
+  "name": "amazon-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Amazon scraper using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "amr512",
+  "license": "MIT",
+  "packageManager": "pnpm@10.7.1",
+  "dependencies": {
+    "puppeteer": "^24.7.2"
+  }
+}

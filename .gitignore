@@ -1,0 +1,5 @@
+node_modules
+amazon-search-results.txt
+amazon-search-results.json
+pnpm-lock.yaml
+*.png
